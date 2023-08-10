@@ -1,7 +1,7 @@
 {
-  "homepage": "https://tluber.github.io/emme-studio/",
+  "homepage": "https://tluber.github.io",
   "name": "emme-studio",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
